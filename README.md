@@ -3,6 +3,10 @@
 ### Um pouco sobre mim
 Me chamo Diego Bueno Mendonça, tenho 23 anos e moro em São Bernardo do Campo. Sou estudante da UFABC no curso Bacharelado em ciências e tecnologia e futuramente pretendo me especializar em ciências da computação, mas como sou um pouco ansioso descidi adiantar meus estudos na área de computação e finalizei o curso de desenvolvimento web na Trybe em Fevereiro de 2023. Graças aos meus estudos tenho bagagem para atuar como desenvolvedor full-stack júnior e estou em busca da minha primeira oportunidade.
 
+
+Tenho um portifólio no github pages, da uma olhadinha lá que tenho alguns projetos que me orgulho bastante!<br>
+link do protifólio: https://diego-bueno-m.github.io
+
 <div align="center">
   <a href="https://github.com/Diego-Bueno-M">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-Bueno-M&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
