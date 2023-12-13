@@ -5,6 +5,7 @@ Me chamo Diego Bueno Mendonça, tenho 23 anos e moro em São Bernardo do Campo. 
 Atualmente atuo na área de segurança da informação na empresa Sec4You, o que engloba Cyber Security, Cyber Identity, IGA (Governança e administração de identidade) e CIAM (Gestão de Identidade e Acesso de Clientes)
 
 Tenho um portifólio no github pages, da uma olhadinha lá que tenho alguns projetos que me orgulho bastante!<br>
+Estou atualizando aos poucos então muita coisa ainda vai mudar!<br>
 link do protifólio: https://diego-bueno-m.github.io
 
 <div align="center">
