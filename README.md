@@ -6,7 +6,7 @@ Atualmente atuo na área de segurança da informação na empresa Sec4You, o que
 
 Tenho um portifólio no github pages, da uma olhadinha lá que tenho alguns projetos que me orgulho bastante!<br>
 Estou atualizando aos poucos então muita coisa ainda vai mudar!<br>
-link do protifólio: https://diego-bueno-m.github.io
+link do portifólio: https://diego-bueno-m.github.io
 
 <div align="center">
   <a href="https://github.com/Diego-Bueno-M">
