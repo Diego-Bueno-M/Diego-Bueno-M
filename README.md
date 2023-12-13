@@ -1,7 +1,8 @@
 ## Olá! Sou o Diego
 
 ### Um pouco sobre mim
-Me chamo Diego Bueno Mendonça, tenho 23 anos e moro em São Bernardo do Campo. Sou estudante da UFABC no curso Bacharelado em ciências e tecnologia e futuramente pretendo me especializar em ciências da computação, mas como sou um pouco ansioso descidi adiantar meus estudos na área de computação e finalizei o curso de desenvolvimento web na Trybe em Fevereiro de 2023. Graças aos meus estudos tenho bagagem para atuar como desenvolvedor full-stack júnior e estou em busca da minha primeira oportunidade.
+Me chamo Diego Bueno Mendonça, tenho 23 anos e moro em São Bernardo do Campo. Sou estudante da UFABC no curso Bacharelado em ciências e tecnologia e futuramente pretendo me especializar em ciências da computação, mas como sou um pouco ansioso descidi adiantar meus estudos na área de computação e finalizei o curso de desenvolvimento web na Trybe em Fevereiro de 2023.
+Atualmente atuo na área de segurança da informação na empresa Sec4You, o que ingloba Cyber Security, Cyber Identity, IGA (Governança e administração de identidade) e CIAM (Gestão de Identidade e Acesso de Clientes)
 
 
 Tenho um portifólio no github pages, da uma olhadinha lá que tenho alguns projetos que me orgulho bastante!<br>
